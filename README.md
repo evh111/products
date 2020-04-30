@@ -1,1 +1,1 @@
-# A simple 'products' app with CRUD functionality; built with a MERN stack
+# A simple 'products' app with CRUD functionality. Built using a MERN stack
